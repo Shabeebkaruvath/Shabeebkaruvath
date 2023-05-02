@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **NEXTjs**
 
 - 💬 Ask me about **Reactjs, Javascript,Firebase, API Integration**
 
