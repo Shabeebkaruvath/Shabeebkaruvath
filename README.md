@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on https://github.com/Shabeebkaruvath/Papperrow
 
-- 🌱 I’m currently learning **NEXTjs**
+- 🌱 I’m using ReactJs + Django + Firebase
 
 - 💬 Ask me about **Reactjs, Javascript,Firebase, API Integration**
 
