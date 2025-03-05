@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on https://github.com/Shabeebkaruvath/fproject
 
-- 🌱 I’m using ReactJs + Firebase
+- 🌱 I’m using Django + ReactJs + Firebase
 
 - 💬 Ask me about **Reactjs, Javascript,Firebase, API Integration**
 
